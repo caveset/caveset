@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tumelo Motsoeneng
 - 👀 User Interface and Customer Engagement
-- 🌱 C-Sharp and Xamarin
-- 💞️ I’m looking to collaborate on Desktop & Mobile Appplications
+- 🌱 React, CSS, Javascript, C#
+- 💞️ I’m looking to collaborate on Web Projects, Desktop & Mobile Appplications
 - 📫 caveset@gmail.com | www.elektroliquid.co.za
 
 <!---
